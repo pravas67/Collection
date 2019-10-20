@@ -1,0 +1,27 @@
+[
+	{"qid":1,
+	"questionDate":"current version of java is",
+	"options":[8,9,11,12],
+	"answer":"D"
+	},
+	{"qid":2,
+	"questionDate":"In java size of boolean",
+	"options":["1 byte","2 byte","i bit","2 bit"],
+	"answer":"A"
+	},
+	{"qid":3,
+	"questionDate":"6+6?",
+	"options":[1,4,36,12],
+	"answer":"D"
+	},
+	{"qid":4,
+	"questionDate":"In java JDK contains how many modules?",
+	"options":[4,2,3,1],
+	"answer":"C"
+	},
+	{"qid":5,
+	"questionDate":"Arrays class present in java.lang package",
+	"options":["yes","no","cann't say","none"],
+	"answer":"B"
+	}
+]
